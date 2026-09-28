@@ -1,0 +1,7 @@
+{
+  "application": "Network Monitoring & Analyzer",
+  "default_refresh_seconds": 3,
+  "default_history_points": 100,
+  "monitoring_scope": "local machine",
+  "packet_capture": false
+}
